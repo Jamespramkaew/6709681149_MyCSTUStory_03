@@ -1,5 +1,5 @@
 
-/*   Part of All   */
+/*  -----------  Part of All -----------  */
 
 * {
 
@@ -10,6 +10,13 @@
 
   
 }
+
+body , html {
+    overflow-x: hidden;
+    
+}
+
+
 .hg1 {
     text-align: left;
     padding-right: 16px;
@@ -43,10 +50,10 @@ details {
 
 
 
-body , html {
-    overflow-x: hidden;
-    
-}
+/* ----------------------------------  */
+
+
+
 
 hr {
     border: 1px solid rgb(28, 182, 221);
@@ -134,15 +141,7 @@ hr {
     
 }
 
-.ctn1 {
 
-    margin: 15px;
-    padding: 7px 15px;
-    background-color: rgb(191, 137, 223);
-    border-radius: 30px;
-    color: rgb(248, 248, 248);
-    text-decoration: none;
-}
 
 .ctn3 {
 
